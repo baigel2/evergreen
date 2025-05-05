@@ -10,6 +10,7 @@ From 5/5/2025 to 5/6/2025, the following rules apply:
 * At least 1 meal a day but no more than 3.
 * 3 Gym sessions a week.
 * Only major purchase allowed is tickets to USA to see family.
+* At least one journal entry a day.
 
 What the hell is this?:
 
@@ -66,3 +67,6 @@ With this project I will find out, through experimentation, trial and error, how
 For this purpose I will create a rolling discipline challenge. From payday to payday I will set rules and restrictions and then review their success and failures each month.
 
 Sometimes, the joy of the journey is as good as the win.
+
+
+[Daily Journal Entries](journal/index.html)
