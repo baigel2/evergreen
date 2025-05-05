@@ -1,3 +1,18 @@
+# Month 1 rules:
+
+From 5/5/2025 to 5/6/2025, the following rules apply:
+
+* 100 squats a day.
+* 1 Cold shower a day.
+* No money spent on food until you run out of a food.
+* No takeaways.
+* Any food purchased before 05/05/2025 can be eaten but no junk food can be purchased even if you run out of all of it.
+* At least 1 meal a day but no more than 3.
+* 3 Gym sessions a week.
+* Only major purchase allowed is tickets to USA to see family.
+
+What the hell is this?:
+
 # Evergreen
 
 A project to establish sustainable, adaptable, life long discipline.
