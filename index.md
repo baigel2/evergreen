@@ -1,10 +1,12 @@
+[Journal Entries](journal/index.html)
+
+
 # Month 1 rules:
 
 From 5/5/2025 to 5/6/2025, the following rules apply:
 
 * 100% of Salah read everyday, strict non negotiable!
 * 100 squats a day.
-* 1 Cold shower a day.
 * No money spent on food until you run out of a food.
 * No takeaways.
 * Any food purchased before 05/05/2025 can be eaten but no junk food can be purchased even if you run out of all of it.
@@ -68,6 +70,20 @@ With this project I will find out, through experimentation, trial and error, how
 For this purpose I will create a rolling discipline challenge. From payday to payday I will set rules and restrictions and then review their success and failures each month.
 
 Sometimes, the joy of the journey is as good as the win.
+
+## Balance.
+
+It's 100% worth noting that when I say discipline I do not mean it in the same sense the David Goggins does.
+
+I'm not trying to push myself past my limits everyday, I'm trying to raise my baseline performance gradually and sustainably accross as many metrics as I can manage.
+
+I will therefore focus on the essentials. Diet, Finances, Income Sources Faith, Family and Fittness.
+
+
+
+
+
+
 
 
 [Daily Journal Entries](journal/index.html)
