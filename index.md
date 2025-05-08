@@ -83,7 +83,7 @@ I will therefore focus on the essentials. Diet, Finances, Income Sources Faith, 
 
 
 
-
+---
 
 
 [Daily Journal Entries](journal/index.html)
