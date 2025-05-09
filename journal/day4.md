@@ -1,3 +1,9 @@
+[Back Home](../index.html)
+
+[Journal Home](index.html)
+
+
+
 # Day 4: 08.05.2025 Thursday:
 
 Time: 05:24
