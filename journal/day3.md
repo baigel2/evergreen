@@ -1,3 +1,9 @@
+[Back Home](../index.html)
+
+[Journal Home](index.html)
+
+
+
 # Day 3: 07.05.2025 Wednesday:
 
 Time 07:17
