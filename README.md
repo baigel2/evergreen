@@ -1,0 +1,1 @@
+This is not an app. It's basically just a journal and planning space for me to experiment with finding sustainable ways to stay disciplined enough to live an actual life instead of being at the bottom of my overdraft all the time.
