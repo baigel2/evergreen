@@ -14,7 +14,7 @@ Here you will find links to all my journal entries:
 
 [Day 4: 8.5.25](day4.html)
 
+[Day 5: 9.5.25](day5.html)
 
-
-
+[Day 6: 10.5.25](Day6.html)
 

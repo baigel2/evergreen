@@ -6,9 +6,9 @@
 
 # Day 2: 06.05.2025 Tuesday:
 
-Time: 14:09
-Balance: £63.22
-Entry:
+* Time: 14:09
+* Balance: £63.22
+* Entry:
 
 I don't want to go to the gym today. I really don't want to go to the gym today.
 

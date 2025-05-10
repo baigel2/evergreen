@@ -73,7 +73,7 @@ Sometimes, the joy of the journey is as good as the win.
 
 ## Balance.
 
-It's 100% worth noting that when I say discipline I do not mean it in the same sense the David Goggins does.
+It's 100% worth noting that when I say discipline I do not mean it in the same sense that David Goggins does.
 
 I'm not trying to push myself past my limits everyday, I'm trying to raise my baseline performance gradually and sustainably accross as many metrics as I can manage.
 

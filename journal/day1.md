@@ -5,9 +5,9 @@
 
 # Day 1:
 
-Day 1: 05.05.2025 Monday:
-Time: 02:34
-Balance: £66.22
+* Day 1: 05.05.2025 Monday:
+* Time: 02:34
+* Balance: £66.22
 
 Motivation was at 0 kelvin today to get up for the challenge.
 

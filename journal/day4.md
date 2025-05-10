@@ -6,9 +6,9 @@
 
 # Day 4: 08.05.2025 Thursday:
 
-Time: 05:24
-Balance: -£582.36
-Entry:
+* Time: 05:24
+* Balance: -£582.36
+* Entry:
 
 I’VE BOOKED THE TRIP!!!
 
