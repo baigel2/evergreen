@@ -6,7 +6,7 @@
 From 5/5/2025 to 5/6/2025, the following rules apply:
 
 * 100% of Salah read everyday, strict non negotiable!
-* 100 squats a day.
+* Stretching everyday, strict non negotiable!
 * No money spent on food until you run out of a food.
 * No takeaways.
 * Any food purchased before 05/05/2025 can be eaten but no junk food can be purchased even if you run out of all of it.
