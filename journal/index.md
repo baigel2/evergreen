@@ -18,3 +18,8 @@ Here you will find links to all my journal entries:
 
 [Day 6: 10.5.25](day6.html)
 
+[Day 7: 11.5.25](day7.html)
+
+[Day 8: 12.5.25](8.html)
+
+
