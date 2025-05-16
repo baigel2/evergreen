@@ -23,3 +23,6 @@ Here you will find links to all my journal entries:
 [Day 8: 12.5.25](8.html)
 
 
+I missed a whole week!
+
+[Day 9: 16.5.25](9.html)
